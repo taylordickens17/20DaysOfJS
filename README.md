@@ -2,9 +2,11 @@
 
 Udemy course [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/share/102yzo3@FY2h-uo6qgoGK234_plKjwCBWZ9m5x82pz-jn3adSLlq3Miii-OYUqtM6InpTpk4pg==/) by Brad Traversy.
 
-:pin: Start Date: 4/
+:round_pushpin: Start Date: 7/8/2022
 
-### Brad Traversy
+:white_check_mark: End Date: TBA
+
+### Course Instructor: Brad Traversy
 
 I find [Brad Traversy](https://www.traversymedia.com/) very inspiring and enjoy his [Udemy courses](https://www.udemy.com/user/brad-traversy/) as well as his YouTube Channel [Traversy Media](https://www.youtube.com/c/TraversyMedia), a wonderful resource for any developer.
 Here is his [GitHub Repo](https://github.com/bradtraversy/vanillawebprojects) with the code/solutions that correspond with the course.
