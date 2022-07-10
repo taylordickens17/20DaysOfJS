@@ -13,8 +13,7 @@ Here is his [GitHub Repo](https://github.com/bradtraversy/vanillawebprojects) wi
 
 ### 20 Projects Content:
 
-- [ ] 1. Form Validator
-- [ ] 1. Form Validator
+- [x] 1. Form Validator
 - [ ] 2. Movie Seat Booking
 - [ ] 3. Custom Video Player
 - [ ] 4. Exchange Rate Calculator
