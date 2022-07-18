@@ -64,11 +64,11 @@ h4 {
     margin: 5px 0;
 }
 
-.money .plus {
+.money.plus {
     color: #2ecc71;
 }
 
-.money .minus {
+.money.minus {
     color: #c0392b;
 }
 
@@ -120,11 +120,11 @@ input[type="text"], input[type="number"] {
     margin: 10px 0;
 }
 
-.list li .minus {
+.list li.minus {
     border-right: 5px solid #c0392b;
 }
 
-.list li .plus {
+.list li.plus {
     border-right: 5px solid #2ecc71;
 }
 
