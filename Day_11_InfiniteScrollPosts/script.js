@@ -28,7 +28,7 @@ async function showPosts() {
     postEl.innerHTML = `
         <div class="number">${post.id}</div>
         <div class="post-info">
-            <h2>${post.title}</h2>
+            <h2 class="post-title">${post.title}</h2>
             <p class="post-body">${post.body}</p>
         </div>
     `;
@@ -51,6 +51,23 @@ function showLoading() {
   }, 1000);
 }
 
+// Filter posts by input
+function filterPosts(e) {
+  const term = e.target.value.toUpperCase();
+  const posts = document.querySelectorAll(".post");
+
+  posts.forEach((post) => {
+    const title = post.querySelector(".post-title").innerText.toUpperCase();
+    const body = post.querySelector(".post-body").innerText.toUpperCase();
+
+    if (title.indexOf(term) > -1 || body.indexOf(term) > -1) {
+      post.style.display = "flex";
+    } else {
+      post.style.display = "none";
+    }
+  });
+}
+
 // Show initial posts
 showPosts();
 
@@ -61,3 +78,5 @@ window.addEventListener("scroll", () => {
     showLoading();
   }
 });
+
+filter.addEventListener("input", filterPosts);
