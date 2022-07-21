@@ -16,7 +16,10 @@ button {
     cursor: pointer;
     font-size: 14px;
     border-radius: 5px;
-    padding: 5px 15px;
+    padding: 10px 15px;
+    border: 0;
+    color: #041122;;
+    background-color: rgba(127, 218, 137, 1);
 }
 
 select{
