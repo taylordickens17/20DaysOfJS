@@ -28,8 +28,8 @@ Here is his [GitHub Repo](https://github.com/bradtraversy/vanillawebprojects) wi
 - [x] 13. Speech Text Reader
 - [x] 14. Memory Cards
 - [x] 15. Lyrics Search App
-- [ ] 16. Relaxer App
-- [ ] 17. Breakout Game
+- [x] 16. Relaxer App
+- [x] 17. Breakout Game
 - [ ] 18. New Year Countdown
 - [ ] 19. Sortable List
 - [ ] 20. Speak Number Guessing Game
