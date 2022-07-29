@@ -4,7 +4,7 @@ Udemy course [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/sha
 
 :round_pushpin: Start Date: 7/8/2022
 
-:white_check_mark: End Date: TBA
+:white_check_mark: End Date: 7/28/2022
 
 ### Course Instructor: Brad Traversy
 
@@ -32,4 +32,4 @@ Here is his [GitHub Repo](https://github.com/bradtraversy/vanillawebprojects) wi
 - [x] 17. Breakout Game
 - [x] 18. New Year Countdown
 - [x] 19. Sortable List
-- [ ] 20. Speak Number Guessing Game
+- [x] 20. Speak Number Guessing Game
